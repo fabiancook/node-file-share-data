@@ -1,6 +1,6 @@
 {
   "name": "packt-mastering-node-file-share-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "dependencies": {
