@@ -1,0 +1,17 @@
+{
+  "name": "file-share-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.1.18",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Cook <fabian.cook@shipper.co.nz>",
+  "license": "Apache-2.0",
+  "repository": "git@github.com:fabiancook/node-file-share-data.git"
+}
